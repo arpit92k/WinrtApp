@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  CppLib.cpp
+x64\Release\pch.obj : warning LNK4264: archiving object file compiled with /ZW into a static library; note that when authoring Windows Runtime types it is not recommended to link with a static library that contains Windows Runtime metadata unless /WHOLEARCHIVE is specified to include everything from the static library
+x64\Release\CppLib.obj : warning LNK4264: archiving object file compiled with /ZW into a static library; note that when authoring Windows Runtime types it is not recommended to link with a static library that contains Windows Runtime metadata unless /WHOLEARCHIVE is specified to include everything from the static library
+  CppLib.vcxproj -> C:\Users\arpsingh\source\repos\WinrtApp\x64\Release\CppLib\CppLib.lib

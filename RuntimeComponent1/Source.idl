@@ -1,0 +1,10 @@
+namespace RuntimeComponent1
+{
+    [default_interface]
+    runtimeclass Source
+    {
+        Source();
+        Int32 MyProperty;
+        Int32 MyProperty1;
+    }
+}

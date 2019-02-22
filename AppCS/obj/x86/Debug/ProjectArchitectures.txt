@@ -1,0 +1,3 @@
+C:\Users\arpsingh\source\repos\WinrtApp\AppCS\AppCS.csproj;x86
+C:\Users\arpsingh\source\repos\WinrtApp\CppLib\CppLib.vcxproj;x86
+C:\Users\arpsingh\source\repos\WinrtApp\RuntimeComponent1\RuntimeComponent1.vcxproj;x86

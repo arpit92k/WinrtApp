@@ -1,0 +1,112 @@
+﻿  MIDLRT Processing C:\Users\arpsingh\source\repos\WinrtApp\RuntimeComponent1\Class.idl
+  Class.idl
+  MIDLRT Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\winrt\winrtbase.idl
+  winrtbase.idl
+  MIDLRT Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\winrt\midlbase.idl
+  midlbase.idl
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.ai.machinelearning.machinelearningcontract\1.0.0.0\windows.ai.machinelearning.machinelearningcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.ai.machinelearning.preview.machinelearningpreviewcontract\2.0.0.0\windows.ai.machinelearning.preview.machinelearningpreviewcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.applicationmodel.calls.background.callsbackgroundcontract\1.0.0.0\windows.applicationmodel.calls.background.callsbackgroundcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.applicationmodel.calls.callsphonecontract\4.0.0.0\windows.applicationmodel.calls.callsphonecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.applicationmodel.calls.callsvoipcontract\4.0.0.0\windows.applicationmodel.calls.callsvoipcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.applicationmodel.communicationblocking.communicationblockingcontract\2.0.0.0\windows.applicationmodel.communicationblocking.communicationblockingcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.applicationmodel.socialinfo.socialinfocontract\2.0.0.0\windows.applicationmodel.socialinfo.socialinfocontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.applicationmodel.startuptaskcontract\3.0.0.0\windows.applicationmodel.startuptaskcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.devices.custom.customdevicecontract\1.0.0.0\windows.devices.custom.customdevicecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.devices.deviceslowlevelcontract\3.0.0.0\windows.devices.deviceslowlevelcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.devices.printers.printerscontract\1.0.0.0\windows.devices.printers.printerscontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.devices.smartcards.smartcardbackgroundtriggercontract\3.0.0.0\windows.devices.smartcards.smartcardbackgroundtriggercontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.devices.smartcards.smartcardemulatorcontract\6.0.0.0\windows.devices.smartcards.smartcardemulatorcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.foundation.foundationcontract\3.0.0.0\windows.foundation.foundationcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.foundation.universalapicontract\7.0.0.0\windows.foundation.universalapicontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.gaming.xboxlive.storageapicontract\1.0.0.0\windows.gaming.xboxlive.storageapicontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.graphics.printing3d.printing3dcontract\4.0.0.0\windows.graphics.printing3d.printing3dcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.networking.connectivity.wwancontract\2.0.0.0\windows.networking.connectivity.wwancontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.networking.sockets.controlchanneltriggercontract\3.0.0.0\windows.networking.sockets.controlchanneltriggercontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.services.maps.guidancecontract\3.0.0.0\windows.services.maps.guidancecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.services.maps.localsearchcontract\4.0.0.0\windows.services.maps.localsearchcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.services.store.storecontract\4.0.0.0\windows.services.store.storecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.services.targetedcontent.targetedcontentcontract\1.0.0.0\windows.services.targetedcontent.targetedcontentcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.system.profile.profilehardwaretokencontract\1.0.0.0\windows.system.profile.profilehardwaretokencontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.system.profile.profilesharedmodecontract\2.0.0.0\windows.system.profile.profilesharedmodecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.system.profile.systemmanufacturers.systemmanufacturerscontract\3.0.0.0\windows.system.profile.systemmanufacturers.systemmanufacturerscontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.system.systemmanagementcontract\6.0.0.0\windows.system.systemmanagementcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.ui.viewmanagement.viewmanagementviewscalingcontract\1.0.0.0\windows.ui.viewmanagement.viewmanagementviewscalingcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.ui.xaml.core.direct.xamldirectcontract\1.0.0.0\windows.ui.xaml.core.direct.xamldirectcontract.winmd
+  MIDLRT Processing C:\Users\arpsingh\source\repos\WinrtApp\RuntimeComponent1\Source.idl
+  Source.idl
+  MIDLRT Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\winrt\winrtbase.idl
+  winrtbase.idl
+  MIDLRT Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\winrt\midlbase.idl
+  midlbase.idl
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.ai.machinelearning.machinelearningcontract\1.0.0.0\windows.ai.machinelearning.machinelearningcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.ai.machinelearning.preview.machinelearningpreviewcontract\2.0.0.0\windows.ai.machinelearning.preview.machinelearningpreviewcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.applicationmodel.calls.background.callsbackgroundcontract\1.0.0.0\windows.applicationmodel.calls.background.callsbackgroundcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.applicationmodel.calls.callsphonecontract\4.0.0.0\windows.applicationmodel.calls.callsphonecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.applicationmodel.calls.callsvoipcontract\4.0.0.0\windows.applicationmodel.calls.callsvoipcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.applicationmodel.communicationblocking.communicationblockingcontract\2.0.0.0\windows.applicationmodel.communicationblocking.communicationblockingcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.applicationmodel.socialinfo.socialinfocontract\2.0.0.0\windows.applicationmodel.socialinfo.socialinfocontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.applicationmodel.startuptaskcontract\3.0.0.0\windows.applicationmodel.startuptaskcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.devices.custom.customdevicecontract\1.0.0.0\windows.devices.custom.customdevicecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.devices.deviceslowlevelcontract\3.0.0.0\windows.devices.deviceslowlevelcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.devices.printers.printerscontract\1.0.0.0\windows.devices.printers.printerscontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.devices.smartcards.smartcardbackgroundtriggercontract\3.0.0.0\windows.devices.smartcards.smartcardbackgroundtriggercontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.devices.smartcards.smartcardemulatorcontract\6.0.0.0\windows.devices.smartcards.smartcardemulatorcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.foundation.foundationcontract\3.0.0.0\windows.foundation.foundationcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.foundation.universalapicontract\7.0.0.0\windows.foundation.universalapicontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.gaming.xboxlive.storageapicontract\1.0.0.0\windows.gaming.xboxlive.storageapicontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.graphics.printing3d.printing3dcontract\4.0.0.0\windows.graphics.printing3d.printing3dcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.networking.connectivity.wwancontract\2.0.0.0\windows.networking.connectivity.wwancontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.networking.sockets.controlchanneltriggercontract\3.0.0.0\windows.networking.sockets.controlchanneltriggercontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.services.maps.guidancecontract\3.0.0.0\windows.services.maps.guidancecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.services.maps.localsearchcontract\4.0.0.0\windows.services.maps.localsearchcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.services.store.storecontract\4.0.0.0\windows.services.store.storecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.services.targetedcontent.targetedcontentcontract\1.0.0.0\windows.services.targetedcontent.targetedcontentcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.system.profile.profilehardwaretokencontract\1.0.0.0\windows.system.profile.profilehardwaretokencontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.system.profile.profilesharedmodecontract\2.0.0.0\windows.system.profile.profilesharedmodecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.system.profile.systemmanufacturers.systemmanufacturerscontract\3.0.0.0\windows.system.profile.systemmanufacturers.systemmanufacturerscontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.system.systemmanagementcontract\6.0.0.0\windows.system.systemmanagementcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.ui.viewmanagement.viewmanagementviewscalingcontract\1.0.0.0\windows.ui.viewmanagement.viewmanagementviewscalingcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.17763.0\windows.ui.xaml.core.direct.xamldirectcontract\1.0.0.0\windows.ui.xaml.core.direct.xamldirectcontract.winmd
+  Microsoft(R) Metadata Merge Utility Version 10.0.47.
+  
+  
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.AI.MachineLearning.MachineLearningContract\1.0.0.0\Windows.AI.MachineLearning.MachineLearningContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.AI.MachineLearning.Preview.MachineLearningPreviewContract\2.0.0.0\Windows.AI.MachineLearning.Preview.MachineLearningPreviewContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.ApplicationModel.Calls.Background.CallsBackgroundContract\1.0.0.0\Windows.ApplicationModel.Calls.Background.CallsBackgroundContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.ApplicationModel.Calls.CallsPhoneContract\4.0.0.0\Windows.ApplicationModel.Calls.CallsPhoneContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.ApplicationModel.Calls.CallsVoipContract\4.0.0.0\Windows.ApplicationModel.Calls.CallsVoipContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.ApplicationModel.CommunicationBlocking.CommunicationBlockingContract\2.0.0.0\Windows.ApplicationModel.CommunicationBlocking.CommunicationBlockingContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.ApplicationModel.SocialInfo.SocialInfoContract\2.0.0.0\Windows.ApplicationModel.SocialInfo.SocialInfoContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.ApplicationModel.StartupTaskContract\3.0.0.0\Windows.ApplicationModel.StartupTaskContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.Devices.Custom.CustomDeviceContract\1.0.0.0\Windows.Devices.Custom.CustomDeviceContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.Devices.DevicesLowLevelContract\3.0.0.0\Windows.Devices.DevicesLowLevelContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.Devices.Printers.PrintersContract\1.0.0.0\Windows.Devices.Printers.PrintersContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.Devices.SmartCards.SmartCardBackgroundTriggerContract\3.0.0.0\Windows.Devices.SmartCards.SmartCardBackgroundTriggerContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.Devices.SmartCards.SmartCardEmulatorContract\6.0.0.0\Windows.Devices.SmartCards.SmartCardEmulatorContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.Foundation.FoundationContract\3.0.0.0\Windows.Foundation.FoundationContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.Foundation.UniversalApiContract\7.0.0.0\Windows.Foundation.UniversalApiContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.Gaming.XboxLive.StorageApiContract\1.0.0.0\Windows.Gaming.XboxLive.StorageApiContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.Graphics.Printing3D.Printing3DContract\4.0.0.0\Windows.Graphics.Printing3D.Printing3DContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.Networking.Connectivity.WwanContract\2.0.0.0\Windows.Networking.Connectivity.WwanContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.Networking.Sockets.ControlChannelTriggerContract\3.0.0.0\Windows.Networking.Sockets.ControlChannelTriggerContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.Services.Maps.GuidanceContract\3.0.0.0\Windows.Services.Maps.GuidanceContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.Services.Maps.LocalSearchContract\4.0.0.0\Windows.Services.Maps.LocalSearchContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.Services.Store.StoreContract\4.0.0.0\Windows.Services.Store.StoreContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.Services.TargetedContent.TargetedContentContract\1.0.0.0\Windows.Services.TargetedContent.TargetedContentContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.System.Profile.ProfileHardwareTokenContract\1.0.0.0\Windows.System.Profile.ProfileHardwareTokenContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.System.Profile.ProfileSharedModeContract\2.0.0.0\Windows.System.Profile.ProfileSharedModeContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.System.Profile.SystemManufacturers.SystemManufacturersContract\3.0.0.0\Windows.System.Profile.SystemManufacturers.SystemManufacturersContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.System.SystemManagementContract\6.0.0.0\Windows.System.SystemManagementContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.UI.ViewManagement.ViewManagementViewScalingContract\1.0.0.0\Windows.UI.ViewManagement.ViewManagementViewScalingContract.winmd.
+  Load input metadata file C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.UI.Xaml.Core.Direct.XamlDirectContract\1.0.0.0\Windows.UI.Xaml.Core.Direct.XamlDirectContract.winmd.
+  Processing input metadata file C:\Users\arpsingh\source\repos\WinrtApp\Debug\RuntimeComponent1\Unmerged\Class.winmd.
+  Processing input metadata file C:\Users\arpsingh\source\repos\WinrtApp\Debug\RuntimeComponent1\Unmerged\Source.winmd.
+  Saved output metadata file RuntimeComponent1.winmd.
+  Validating metadata file C:\Users\arpsingh\source\repos\WinrtApp\Debug\RuntimeComponent1\Merged\RuntimeComponent1.winmd.
+  pch.cpp
+  Class.cpp
+  module.g.cpp
+  Source.cpp
+     Creating library C:\Users\arpsingh\source\repos\WinrtApp\Debug\RuntimeComponent1\RuntimeComponent1.lib and object C:\Users\arpsingh\source\repos\WinrtApp\Debug\RuntimeComponent1\RuntimeComponent1.exp
+  RuntimeComponent1.vcxproj -> C:\Users\arpsingh\source\repos\WinrtApp\Debug\RuntimeComponent1\RuntimeComponent1.dll
